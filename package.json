@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vrserrano/PRACTICA_6/issues"
   },
-  "homepage": "https://github.com/vrserrano/PRACTICA_6#readme"
+  "homepage": "https://github.com/vrserrano/PRACTICA_6#readme",
+  "dependencies": {
+    "mongodb": "^3.3.5"
+  }
 }
