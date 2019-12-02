@@ -1,23 +1,24 @@
 {
-  "name": "PRACTICA_6",
+  "name": "practica6",
   "version": "1.0.0",
-  "description": "PRÁCTICA 6",
-  "main": "index.js",
+  "description": "practica 6",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no se ha especificado ningún test\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vrserrano/PRACTICA_6.git"
+    "url": "git+https://github.com/vrserrano/practica6.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vrserrano/PRACTICA_6/issues"
+    "url": "https://github.com/vrserrano/practica6/issues"
   },
-  "homepage": "https://github.com/vrserrano/PRACTICA_6#readme",
+  "homepage": "https://github.com/vrserrano/practica6#readme",
   "dependencies": {
-    "mongodb": "^3.3.5"
+    "mongodb": "^3.3.5",
+    "querystring": "^0.2.0"
   }
 }
